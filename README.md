@@ -5,7 +5,7 @@ I'm a London-based data enthusiast with a knack for turning numbers into narrati
 🌐 Find me on LinkedIn: https://www.linkedin.com/in/james-carey-a55088152/
 
 🧩 A Bit More About Me
-My fascination with data began during my time as a professional poker player. I realized that the key to success lies in understanding patterns and probabilities. This passion led me to dive into Python and SQL, unraveling the stories hidden in data.
+My fascination with data began during my time as a professional poker player. I realized that the key to success lies in a data-driven approach, understanding patterns and probabilities. This passion led me to dive into Python and SQL, unraveling the stories hidden in data.
 
 🔭 I'm currently exploring: Advanced data visualization techniques and machine learning fundamentals.
 
