@@ -1,6 +1,6 @@
 👋 Hey there, I'm James Carey!
 
-I'm a London-based data enthusiast with a knack for turning numbers into narratives. My journey through the world of data analytics is fueled by my background in business management and my love for puzzles and strategy games.
+I'm a London-based data enthusiast with a knack for turning numbers into narratives. My journey through the world of data analytics is fueled by my background in business management and my love for using data to drive strategic decisions.
 
 🌐 Find me on LinkedIn: https://www.linkedin.com/in/james-carey-a55088152/
 
