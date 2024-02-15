@@ -4,14 +4,14 @@ I'm a London-based data enthusiast with a knack for turning numbers into narrati
 
 🌐 Find me on LinkedIn: https://www.linkedin.com/in/james-carey-a55088152/
 
-🧩 A Bit More About Me
+🧩 A Bit More About Me:
 My fascination with data began during my time as a professional poker player. I realized that the key to success lies in a data-driven approach, understanding patterns and probabilities. This passion led me to dive into Python and SQL, unraveling the stories hidden in data.
 
 🔭 I'm currently exploring: Advanced data visualization techniques and machine learning fundamentals.
 
 🌱 I'm learning: To integrate AI into my data analysis projects.
 
-👯 I'm looking to collaborate on: Projects that are at the intersection of data and real-world applications, especially in sports analytics or financial modeling.
+👯 I'm looking to collaborate on: Projects that are at the intersection of data and real-world applications, especially in business analysis or financial modeling.
 
 🤔 I'm seeking help with: Advancing my skills and finding a job for an ambitious, data-driven company.
 
